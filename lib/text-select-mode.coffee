@@ -22,6 +22,8 @@ module.exports = TextSelectMode =
       "editor:move-to-previous-word",
       "editor:move-to-next-word-boundary",
       "editor:move-to-previous-word-boundary",
+      "editor:move-to-next-subword-boundary",
+      "editor:move-to-previous-subword-boundary",
       "editor:move-to-beginning-of-previous-paragraph",
       "editor:move-to-end-of-previous-paragraph",
       "editor:move-to-beginning-of-next-paragraph",
